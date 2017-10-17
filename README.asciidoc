@@ -49,7 +49,7 @@ http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4763932Z5
 * Deep understanding of **open-source licenses**, philosophy and legislation and active contributor of open-source projects.
 * Knowledge and experience in packaging software applications in formats like deb, rpm, lpp (AIX), AppImage and snap.
 * Good knowledge of **electronics and circuitry** and deep knowledge and understanding of low-cost **3D printing**, with a popular open-source https://github.com/Patola/ebook[book] (in brazilian portuguese) published about it. Due to that, good modelling experience in open-source 3D modellers like Blender, FreeCAD and OpenSCAD.
-* Knowledge and practice with **development boards** like ODROIDs from hardkernel, PCDuino, Orange and Banana Pi, Wandboard, Cubieboard and many others.
+* Knowledge and practice with **development boards** like ODROIDs from hardkernel, PCDuino, Orange and Banana Pi, Beaglebone Black, Wandboard, Cubieboard and many others.
 * Additional knowledge about physics, chemistry, molecular biology and genetics, with a masters degree of genetics and molecular biology from one of Brazil's most respected universities.
 * **Public speaker** in a number of http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4763932Z5[high-profile events and conferences], and also **youtube educator** with Maker/3DPrinting channels in https://www.youtube.com/makerlinux[brazilian portuguese] and https://www.youtube.com/channel/UC65ISAck97KwTJRlFHEvTOg[english].
 
@@ -58,7 +58,7 @@ http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4763932Z5
 * Mostly due to my diverse set of abilities, my best performance is at **medium to long term projects with high stakes** and responsibilities and unforeseen circumstances.
 * I thrive at **complex systems environments** with multiple languages, being able to learn a new one in a very short time. High skill in troubleshooting and fixing system problems and keep things working even in emergencies.
 * With my education experience, I am also very good and **documenting and organizing** computing environments.
-* I can administrate diverse **UNIX system environments** including planning for high availability (certified in HACMP for AIX and with experience in other HA systems).
+* I can administrate diverse **UNIX system environments** including planning for high availability (certified in HACMP for AIX and with experience in other HA systems) and network topology and firewalls.
 * I can **code applications** that complement a diverse environment, with scripting, VM-based or compiled languages.
 * I can advise on open-source licensing and strategies.
 * I can use my extra skills to complement work, e.g. 3D printing for embedded devices or 3D modelling.
@@ -73,6 +73,7 @@ http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4763932Z5
 ** CATE (Certified Advanced Techical Expert) for AIX, 2001.
 ** HP-UX and Solaris System Administrator certifications.
 * Many in-job courses and certifications, from *ITILv3* to individual products like Lotus Notes and Maximo.
+* Embedded development courses with __Embedded Labworks__ and (now extinct) __Techtraining__.
 
 [[experience]]
 ==== Experience
