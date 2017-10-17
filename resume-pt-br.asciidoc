@@ -110,5 +110,5 @@ http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4763932Z5
 * **Disponibilidade de Regime de Trabalho**: Disponível para meio-turno, tempo integral, home-office e também via contrato visto que tenho uma empresa SIMPLES para desempenhar serviços de informática.
 
 [[caveats]]
-==== Caveats and shortcomings
-* Due to the necessary rich and complex environments and toolsets needed for my kind of work, I found it impractical, maybe impossible, to work in a Windows desktop, even a Windows 10 desktop with Windows Subsystem for Linux. A proper updated real Linux desktop is needed, be it RedHat, Ubuntu, Arch or any derivatives, but since most Linux desktops are free of charge, this usually does not pose a monetary problem.
+==== Limitações e Deficiências
+* Devido aos ambientes e ferramentas complexos indispensáveis para meu tipo de trabalho, acabou se tornando impraticável, talvez impossível, trabalhar adequadamente em um desktop Windows, mesmo um Windows 10 com Windows Subsystem for Linux. Um ambiente Linux apropriado é necessário, seja RedHat, Ubuntu, Arch ou quaisquer derivados, mas haja visto que distribuições Linux costumam ser gratuitas, isso não costuma ser um revés monetário.
