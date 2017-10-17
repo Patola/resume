@@ -38,12 +38,16 @@ v0.99.3, 1/10/2017
 :version-en-us: https://github.com/Patola/resume/blob/master/README.asciidoc
 
 === Cláudio Luís Marques Sampaio
-Casado, 43 anos (23 de novembro de 1973)
+Casado, 43 anos (23 de novembro de 1973) +
 Rua Benedito da Silva 291 +
 Residencial Terra Nova, Campinas, SP +
 CEP 13082-694 +
 +55 (19) 3289-0644 +
 +55 (19) 99116-3949 +
+
+Microempresa: MakerLinux S/A +
+CNPJ 21.004.886/0001-11 +
+Inscrição Municipal 00311816-9
 
 patola@gmail.com +
 patola@makerlinux.com.br +
@@ -88,22 +92,22 @@ http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4763932Z5
 
 [[experience]]
 ==== Experiência
-* *Solvo* S/A, 1998-2001: Unix systems administrator, 2001-2002: Unix Application Developer.
-* *YMF* S/A, 2002-2003: J2EE developer for financial systems.
-* **Convergys, Inc.**, 2003-2005: Unix and Windows applications developer (front-end and backend)
-* **IBM Brasil S/A**, 2005-2016: UNIX Systems administrator, Unix Team Lead, Unix Application Developer.
+* *Solvo* S/A, 1998-2001: administrador de sistemas Unix, 2001-2002: Desenvolvedor de Aplicações Unix.
+* *YMF* S/A, 2002-2003: desenvolvedor J2EE para sistemas bancários.
+* **Convergys, Inc.**, 2003-2005: desenvolvedor de aplicações Unix e Windows (front-end and backend)
+* **IBM Brasil S/A**, 2005-2016: Administrador de sistemas Unix, Unix Team Lead, Desenvolvedor de Aplicações Unix.
 
 [[languages]]
 ==== Languages
-* **English**: fluent (writing, reading), good (speaking).
-* **Portuguese**: native language.
-* **French**: intermediate (reading, speaking), basic (writing)
-* **Spanish**: intermediate (reading, speaking), basic (writing)
+* **Inglês**: fluente (escrita, leitura), bom (pronúncia).
+* **Português**: linguagem nativa.
+* **Francês**: intermediário (leitura, pronúncia), básico (escrita)
+* **Spanish**: intermediário (leitura, pronúncia), básico (escrita)
 
 [[availability]]
-==== Availability
-* **Travel Availability**: Available for both national and international trips with up to 6 months periods.
-* ** Work Availability**: Available to work half-time, full-time, home-office and also with contracts due to having a small business to perform computer-related services.
+==== Disponibilidade
+* **Disponibilidade para Viagens**: Disponível para viagens nacionais e internacionais em períodos de até 6 meses.
+* **Disponibilidade de Regime de Trabalho**: Disponível para meio-turno, tempo integral, home-office e também via contrato visto que tenho uma empresa SIMPLES para desempenhar serviços de informática.
 
 [[caveats]]
 ==== Caveats and shortcomings

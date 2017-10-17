@@ -28,12 +28,16 @@ v0.99.3, 1/10/2017
 :version-en-us: https://github.com/Patola/resume/blob/master/README.asciidoc
 
 === Cláudio Luís Marques Sampaio
-Married, 43 years old (23 november 1973)
+Married, 43 years old (23 november 1973) +
 Rua Benedito da Silva 291 +
 Residencial Terra Nova, Campinas, SP +
 CEP 13082-694 +
 +55 (19) 3289-0644 +
 +55 (19) 99116-3949 +
+
+Small business: MakerLinux S/A +
+CNPJ 21.004.886/0001-11 +
+Inscrição Municipal 00311816-9
 
 patola@gmail.com +
 patola@makerlinux.com.br +
