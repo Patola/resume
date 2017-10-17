@@ -56,6 +56,7 @@ http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4763932Z5
 ==== Sumário
 * **Administrador de sistemas** e **desenvolvedor** com décadas de experiência em sistemas UNIX e Linux com clientes grandes e ambientes de missão crítica, com prática nos escopos de servidores, desktops, dispositivos móveis e dispositivos embarcados.
 * Generalista de linguagens de programação com experiência em C, C++, Java, perl, python, SQL, php e shell scripting.
+* Bom conhecimento em **sistemas de controle de versão** como **git**, RCS, CVS, Bazaar.
 * Conhecimento profundo de licenças, filosofia e legislação **open source**, ativo contribuidor de alguns projetos.
 * Conhecimento e experiência em empacotamento de aplicações de software em formatos como deb, rpm, lpp (AIX), AppImage e snap.
 * Bom conhecimento de **eletrônica e circuitos** e profundo conhecimento e compreensão de **Impressão 3D** de baixo custo, com um https://github.com/Patola/ebook[livro] open-source popular publicado sobre este assunto. Por causa disto tem também boa experiência de modelagem com softwares open source como Blender, FreeCAD e OpenSCAD.

@@ -46,6 +46,7 @@ http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4763932Z5
 ==== Summary
 * Versatile **system administrator** and **developer** with decades of UNIX and Linux experience in big customers with mission critical environments, working with servers, desktops, mobile and embedded devices.
 * Language generalist with programming experience in C, C++, Java, perl, python, SQL, php and shell scripting.
+* Good knowledge on **revision control systems** like **git**, RCS, CVS, bazaar.
 * Deep understanding of **open-source licenses**, philosophy and legislation and active contributor of open-source projects.
 * Knowledge and experience in packaging software applications in formats like deb, rpm, lpp (AIX), AppImage and snap.
 * Good knowledge of **electronics and circuitry** and deep knowledge and understanding of low-cost **3D printing**, with a popular open-source https://github.com/Patola/ebook[book] (in brazilian portuguese) published about it. Due to that, good modelling experience in open-source 3D modellers like Blender, FreeCAD and OpenSCAD.
