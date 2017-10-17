@@ -34,8 +34,8 @@ v0.99.3, 1/10/2017
 :source-highlighter: rouge
 :imagesdir: imagens
 :imagesoutdir: img
-:version-pt-br: https://github.com/Patla/resume/resume-pt-br.asciidoc
-:version-en-us: https://github.com/Patla/resume/README.asciidoc
+:version-pt-br: https://github.com/Patola/resume/resume-pt-br.asciidoc
+:version-en-us: https://github.com/Patola/resume/README.asciidoc
 
 === Cláudio Luís Marques Sampaio
 Casado, 43 anos (23 de novembro de 1973)
