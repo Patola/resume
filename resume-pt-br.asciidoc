@@ -1,0 +1,109 @@
+= Curriculum vitae
+Cláudio Luís Marques Sampaio, MSc.
+v0.99.3, 1/10/2017
+:updated: 2017-11-18
+:Author: Cláudio Luís Marques Sampaio, MSc.
+:Email: patola@makerlinux.com.br
+:Date: 17/10/2017
+:Revision: v0.1
+:doctype: article
+:producer: Asciidoctor
+:keywords: resume
+:reproducible: yes
+:icons: font
+:lang: pt-BR
+:toc-title: Índice
+:caution-caption: Cuidado
+:important-caption: Importante
+:note-caption: Nota
+:tip-caption: Dica
+:warning-caption: Atenção
+:appendix-caption: Apêndice
+:example-caption: Exemplo
+:figure-caption: Figura
+:table-caption: Tabela
+:toclevels: 5
+:ascii-ids:
+:showcomments:
+:stem: latexmath
+:math:
+:mathematical-format: png
+:gitrepo: https://github.com/Patola/resume
+:copyright: MIT License
+:text-alignment: justify
+:source-highlighter: rouge
+:imagesdir: imagens
+:imagesoutdir: img
+:version-pt-br: https://github.com/Patla/resume/resume-pt-br.asciidoc
+:version-en-us: https://github.com/Patla/resume/README.asciidoc
+
+=== Cláudio Luís Marques Sampaio
+Casado, 43 anos (23 de novembro de 1973)
+Rua Benedito da Silva 291 +
+Residencial Terra Nova, Campinas, SP +
+CEP 13082-694 +
++55 (19) 3289-0644 +
++55 (19) 99116-3949 +
+
+patola@gmail.com +
+patola@makerlinux.com.br +
+https://github.com/Patola
+http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4763932Z5
+
+{version-pt-br}[versão em inglês deste documento]
+
+[[summary]]
+==== Sumário
+* **Administrador de sistemas** e **desenvolvedor** com décadas de experiência em sistemas UNIX e Linux com clientes grandes e ambientes de missão crítica, com prática nos escopos de servidores, desktops, dispositivos móveis e dispositivos embarcados.
+* Generalista de linguagens de programação com experiência em C, C++, Java, perl, python, SQL, php e shell scripting.
+* Conhecimento profundo de licenças, filosofia e legislação **open source**, ativo contribuidor de alguns projetos.
+* Conhecimento e experiência em empacotamento de aplicações de software em formatos como deb, rpm, lpp (AIX), AppImage e snap.
+* Bom conhecimento de **eletrônica e circuitos** e profundo conhecimento e compreensão de **Impressão 3D** de baixo custo, com um https://github.com/Patola/ebook[livro] open-source popular publicado sobre este assunto. Por causa disto tem também boa experiência de modelagem com softwares open source como Blender, FreeCAD e OpenSCAD.
+* Conhecimento e prática de **placas de desenvolvimento** como ODROIDs da hardkernel, PCDuino, Orange e Banana Pi, Wandboard, Cubieboard, Beaglebone Black e muitas outras.
+* Conhecimento adicional sobre física, química, biologia molecular e genética, com mestrado em biologia molecular e genética pela Universidade Estadual de Campinas.
+* **Palestrante e Conferencista** em variados http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4763932Z5[eventos e congressos importantes] e ainda **educador de youtube** com canais Maker/de Impressão 3D em https://www.youtube.com/makerlinux[português] and https://www.youtube.com/channel/UC65ISAck97KwTJRlFHEvTOg[inglês].
+
+[[objective]]
+==== Objetivo
+* Devido ao meu conjunto diverso de competências, meu melhor desempenho é em **projetos de médio e longo prazo com altos riscos**, responsabilidades e circunstâncias imprevistas.
+* Trabalho bem em **ambientes de sistemas complexos** com linguagens múltiplas, conseguindo aprender e programar em uma nova em muito pouco tempo. Tenho alta habilidades em achar a causa-raiz de problemas e consertá-los em tempo de modo a manter o ambiente funcionando mesmo em emergências.
+* Com a experiência em educação, também tenho bastante habilidade em **documentar e organizar** tais ambientes.
+* Posso administrar diversos **ambientes de sistema Unix** incluindo planejar para alta disponibilidade (certificado em HACMP para AIX e com experiência em outros sistemas de HA) e topologia de redes/firewalls.
+* Posso **desenvolver aplicações** que complementam um ambiente diverso, com linguagens de scripting, compiladas ou baseadas em VM.
+* Posso fazer consultoria de estratégia e licenças open-source.
+* Posso usar minhas aptidões extras para complementar o trabalho cotidiano, como modelar e imprimir cases para dispostivos embarcados.
+* Trabalhei 5 anos no turno da madrugada, portanto se necessário posso trabalhar em horários diferentes.
+
+[[education]]
+==== Educação
+* Universidade Estadual de Campinas (Unicamp), 2001. Engenharia de Computação
+* Universidade Estadual de Campinas (Unicamp), 2010. Mestre em Biologia Molecular e Genética.
+* Diversas certificações relacionadas a Unix:
+** Certificação SAIR Linux, 2001
+** Certificação múltipla CATE (Certified Advanced Technical Expert) de AIX, 2001.
+** Certificações de administração de sistema em HP-UX e Solaris.
+* Muitas certificações de trabalho e cursos internos, de **ITIL v3** a **Lotus Notes** e **Maximo**.
+* Cursos de desenvolvimento embarcado com a __Techtraining__ (agora extinta) e __Embedded Labworks__.
+
+[[experience]]
+==== Experiência
+* *Solvo* S/A, 1998-2001: Unix systems administrator, 2001-2002: Unix Application Developer.
+* *YMF* S/A, 2002-2003: J2EE developer for financial systems.
+* **Convergys, Inc.**, 2003-2005: Unix and Windows applications developer (front-end and backend)
+* **IBM Brasil S/A**, 2005-2016: UNIX Systems administrator, Unix Team Lead, Unix Application Developer.
+
+[[languages]]
+==== Languages
+* **English**: fluent (writing, reading), good (speaking).
+* **Portuguese**: native language.
+* **French**: intermediate (reading, speaking), basic (writing)
+* **Spanish**: intermediate (reading, speaking), basic (writing)
+
+[[availability]]
+==== Availability
+* **Travel Availability**: Available for both national and international trips with up to 6 months periods.
+* ** Work Availability**: Available to work half-time, full-time, home-office and also with contracts due to having a small business to perform computer-related services.
+
+[[caveats]]
+==== Caveats and shortcomings
+* Due to the necessary rich and complex environments and toolsets needed for my kind of work, I found it impractical, maybe impossible, to work in a Windows desktop, even a Windows 10 desktop with Windows Subsystem for Linux. A proper updated real Linux desktop is needed, be it RedHat, Ubuntu, Arch or any derivatives, but since most Linux desktops are free of charge, this usually does not pose a monetary problem.
