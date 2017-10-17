@@ -59,7 +59,7 @@ http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4763932Z5
 [[summary]]
 ==== Sumário
 * **Administrador de sistemas** e **desenvolvedor** com décadas de experiência em sistemas UNIX e Linux com clientes grandes e ambientes de missão crítica, com prática nos escopos de servidores, desktops, dispositivos móveis e dispositivos embarcados.
-* Generalista de linguagens de programação com experiência em C, C++, Java, perl, python, SQL, php e shell scripting.
+* Generalista de linguagens de programação com experiência (aplicações completas) em C, C++, Java, perl, python, SQL, php e shell scripting.
 * Bom conhecimento em **sistemas de controle de versão** como **git**, RCS, CVS, Bazaar.
 * Conhecimento profundo de licenças, filosofia e legislação **open source**, ativo contribuidor de alguns projetos.
 * Conhecimento e experiência em empacotamento de aplicações de software em formatos como deb, rpm, lpp (AIX), AppImage e snap.
