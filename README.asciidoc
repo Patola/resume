@@ -40,9 +40,11 @@ patola@makerlinux.com.br +
 https://github.com/Patola
 http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4763932Z5
 
+{version-pt-br}[brazilian portuguese version of this document]
+
 [[summary]]
 ==== Summary
-* Versatile **system administrator** and **developer** with decades of UNIX and Linux experience in big customers, with practical experience in servers, desktops, mobile and embedded devices.
+* Versatile **system administrator** and **developer** with decades of UNIX and Linux experience in big customers with mission critical environments, working with servers, desktops, mobile and embedded devices.
 * Language generalist with programming experience in C, C++, Java, perl, python, SQL, php and shell scripting.
 * Deep understanding of **open-source licenses**, philosophy and legislation and active contributor of open-source projects.
 * Knowledge and experience in packaging software applications in formats like deb, rpm, lpp (AIX), AppImage and snap.
@@ -86,9 +88,10 @@ http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4763932Z5
 * **French**: intermediate (reading, speaking), basic (writing)
 * **Spanish**: intermediate (reading, speaking), basic (writing)
 
-[[trips]]
-==== Travel Availability
-* Available for both national and international trips with up to 6 months periods.
+[[availability]]
+==== Availability
+* **Travel Availability**: Available for both national and international trips with up to 6 months periods.
+* ** Work Availability**: Available to work half-time, full-time, home-office and also with contracts due to having a small business to perform computer-related services.
 
 [[caveats]]
 ==== Caveats and shortcomings
