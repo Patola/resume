@@ -49,10 +49,11 @@ Microempresa: MakerLinux S/A +
 CNPJ 21.004.886/0001-11 +
 Inscrição Municipal 00311816-9
 
-patola@gmail.com +
-patola@makerlinux.com.br +
-https://github.com/Patola
-http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4763932Z5
+mailto:patola@gmail.com[email pessoal] +
+mailto:patola@makerlinux.com.br[email profissional] +
+https://github.com/Patola[github] +
+https://linkedin.com/in/patola[linkedin] +
+http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4763932Z5[lattes]
 
 {version-pt-br}[versão em inglês deste documento]
 
