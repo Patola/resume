@@ -110,6 +110,3 @@ http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4763932Z5[lattes]
 * **Disponibilidade para Viagens**: Disponível para viagens nacionais e internacionais em períodos de até 6 meses.
 * **Disponibilidade de Regime de Trabalho**: Disponível para meio-turno, tempo integral, home-office e também via contrato visto que tenho uma empresa SIMPLES para desempenhar serviços de informática.
 
-[[caveats]]
-==== Limitações e Deficiências
-* Devido aos ambientes e ferramentas complexos indispensáveis para meu tipo de trabalho, acabou se tornando impraticável, talvez impossível, trabalhar adequadamente em um desktop Windows, mesmo um Windows 10 com Windows Subsystem for Linux. Um ambiente Linux apropriado é necessário, seja RedHat, Ubuntu, Arch ou quaisquer derivados, mas haja visto que distribuições Linux costumam ser gratuitas, isso não costuma ser um revés monetário.
