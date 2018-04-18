@@ -100,6 +100,3 @@ http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4763932Z5[lattes]
 * **Travel Availability**: Available for both national and international trips with up to 6 months periods.
 * ** Work Availability**: Available to work half-time, full-time, home-office and also with contracts due to having a small business to perform computer-related services.
 
-[[caveats]]
-==== Caveats and shortcomings
-* Due to the necessary rich and complex environments and toolsets needed for my kind of work, I found it impractical, maybe impossible, to work in a Windows desktop, even a Windows 10 desktop with Windows Subsystem for Linux. A proper updated real Linux desktop is needed, be it RedHat, Ubuntu, Arch or any derivatives, but since most Linux desktops are free of charge, this usually does not pose a monetary problem.
