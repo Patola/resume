@@ -97,6 +97,8 @@ http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4763932Z5[lattes]
 * *YMF* S/A, 2002-2003: desenvolvedor J2EE para sistemas bancários.
 * **Convergys, Inc.**, 2003-2005: desenvolvedor de aplicações Unix e Windows (front-end and backend)
 * **IBM Brasil S/A**, 2005-2016: Administrador de sistemas Unix, Unix Team Lead, Desenvolvedor de Aplicações Unix.
+* **MakerLinux S/A**, 2016-2018: Dono/CTO.
+* **TSYS, Inc.**, Outubro de 2018 até hoje: C/C++ & PL/SQL Application Developer
 
 [[languages]]
 ==== Languages
