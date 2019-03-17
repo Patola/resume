@@ -55,7 +55,7 @@ https://github.com/Patola[github] +
 https://linkedin.com/in/patola[linkedin] +
 http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4763932Z5[lattes]
 
-{version-pt-br}[versão em inglês deste documento]
+{version-en-us}[versão em inglês deste documento]
 
 [[summary]]
 ==== Sumário
