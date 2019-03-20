@@ -83,7 +83,7 @@ http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4763932Z5[lattes]
 
 [[experience]]
 ==== Experience
-* *Solvo* S/A, 1998-2001: Unix systems administrator, 2001-2002: Unix Application Developer.
+* *Solvo* S/A, 1998-2002: Unix systems administrator, 2001-2002: Unix Application Developer.
 * *YMF* S/A, 2002-2003: J2EE developer for financial systems.
 * **Convergys, Inc.**, 2003-2005: Unix and Windows applications developer (front-end and backend)
 * **IBM Brasil S/A**, 2005-2016: UNIX Systems administrator, Unix Team Lead, Unix Application Developer.
