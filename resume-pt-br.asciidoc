@@ -62,6 +62,7 @@ http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4763932Z5[lattes]
 * **Administrador de sistemas** e **desenvolvedor** com décadas de experiência em sistemas UNIX e Linux com clientes grandes e ambientes de missão crítica, com prática nos escopos de servidores, desktops, dispositivos móveis e dispositivos embarcados.
 * Generalista de linguagens de programação com experiência (aplicações completas) em C, C++, Java, perl, python, SQL, php e shell scripting.
 * Bom conhecimento em **sistemas de controle de versão** como **git**, RCS, CVS, Bazaar.
+* Bonm conhecimento em **virtualização com contêineres** (docker, vagrant), **gerenciamento de configuração** (puppet, ansible), **nuvem** (softlayer, AWS), com experiência positiva mas limitada com orquestração (kubernetes, docker swarm).
 * Conhecimento profundo de licenças, filosofia e legislação **open source**, ativo contribuidor de alguns projetos.
 * Conhecimento e experiência em empacotamento de aplicações de software em formatos como deb, rpm, lpp (AIX), AppImage e snap.
 * Bom conhecimento de **eletrônica e circuitos** e profundo conhecimento e compreensão de **Impressão 3D** de baixo custo, com um https://github.com/Patola/ebook[livro] open-source popular publicado sobre este assunto. Por causa disto tem também boa experiência de modelagem com softwares open source como Blender, FreeCAD e OpenSCAD.
@@ -96,7 +97,7 @@ http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4763932Z5[lattes]
 * *Solvo* S/A, 1998-2002: administrador de sistemas Unix, 2001-2002: Desenvolvedor de Aplicações Unix.
 * *YMF* S/A, 2002-2003: desenvolvedor J2EE para sistemas bancários.
 * **Convergys, Inc.**, 2003-2005: desenvolvedor de aplicações Unix e Windows (front-end and backend)
-* **IBM Brasil S/A**, 2005-2016: Administrador de sistemas Unix, Unix Team Lead, Desenvolvedor de Aplicações Unix.
+* **IBM Brasil S/A**, 2005-2016: Administrador de sistemas Unix, Unix Team Lead, Desenvolvedor de Aplicações Unix, Programador de Administrador de Nuvem.
 * **MakerLinux S/A**, 2016-2018: Dono/CTO.
 * **TSYS, Inc.**, Outubro de 2018 até hoje: C/C++ & PL/SQL Application Developer
 
