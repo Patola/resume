@@ -54,7 +54,7 @@ http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4763932Z5[lattes]
 * Language generalist with programming experience (complete application writing) in C, C++, Java, perl, python, SQL, php and shell scripting.
 * Good knowledge on **revision control systems** like **git**, RCS, Subversion (SVN), CVS, bazaar.
 * Good knowledge on **container virtualization** (docker, vagrant), **configuration management** (puppet, ansible), **cloud** (softlayer, AWS), with limited experience with **orchestration** (kubernetes, docker swarm).
-* Experience in programming witb various general use libraries/packages such as libcurl, berkeley db, sqlite3, **redis**, rabbitmq, scrapy, gettext (for internationalization), mysql, postgresql, oracle, MS SQL Server.
+* Experience in programming with various general use libraries/packages such as libcurl, berkeley db, sqlite3, **redis**, rabbitmq, scrapy, gettext (for internationalization), mysql, postgresql, oracle, MS SQL Server.
 * Knowledge and experience with **Agile methodologies**, LEAN and ITIL, including extreme programming (XP), Kanban and SCRUM. ITILv3 certified.
 * Deep understanding of **open-source licenses**, philosophy and legislation and active contributor of open-source projects.
 * Knowledge and experience in packaging software applications in formats like deb, rpm, lpp (AIX), AppImage and snap.
