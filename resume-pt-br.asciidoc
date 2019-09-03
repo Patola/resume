@@ -60,20 +60,19 @@ http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4763932Z5[lattes]
 
 [[summary]]
 ==== Sumário
-* **Administrador de sistemas** e **desenvolvedor** com décadas de experiência em sistemas UNIX e Linux com clientes grandes e ambientes de missão crítica, com prática nos escopos de servidores, desktops, dispositivos móveis e dispositivos embarcados.
+* **Administrador de sistemas** e **desenvolvedor** graduado em **engenharia** com décadas de experiência em sistemas UNIX e Linux com clientes grandes e ambientes de missão crítica, com prática nos escopos de servidores, desktops, dispositivos móveis e dispositivos embarcados.
 * Generalista de linguagens de programação com experiência (aplicações completas) em C, C++, Java, perl, python, SQL, php e shell scripting.
-* Bom conhecimento em **sistemas de controle de versão** como **git**, RCS, CVS, Bazaar.
+* Bom conhecimento em **sistemas de controle de versão** como **git**, Subversion (SVN), RCS, CVS, Bazaar.
 * Bonm conhecimento em **virtualização com contêineres** (docker, vagrant), **gerenciamento de configuração** (puppet, ansible), **nuvem** (softlayer, AWS), com experiência positiva mas limitada com orquestração (kubernetes, docker swarm).
+* Experiência em programação com o uso de várias bibliotecas, frameworks e pacotes como libcurl, berkeley db, sqlite3, **redis**, rabbitmq, scrapy, gettext (para internacionalização), mysql, postgresql, oracle, MS SQL Server.
 * Conhecimento profundo de licenças, filosofia e legislação **open source**, ativo contribuidor de alguns projetos.
 * Conhecimento e experiência em empacotamento de aplicações de software em formatos como deb, rpm, lpp (AIX), AppImage e snap.
 * Bom conhecimento de **eletrônica e circuitos** e profundo conhecimento e compreensão de **Impressão 3D** de baixo custo, com um https://github.com/Patola/ebook[livro] open-source popular publicado sobre este assunto. Por causa disto tem também boa experiência de modelagem com softwares open source como Blender, FreeCAD e OpenSCAD.
-* Conhecimento e prática de **placas de desenvolvimento** como ODROIDs da hardkernel, PCDuino, Orange e Banana Pi, Wandboard, Cubieboard, Beaglebone Black e muitas outras.
-* Conhecimento adicional sobre física, química, biologia molecular e genética, com mestrado em biologia molecular e genética pela Universidade Estadual de Campinas.
 * **Palestrante e Conferencista** em variados http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4763932Z5[eventos e congressos importantes] e ainda **educador de youtube** com canais Maker/de Impressão 3D em https://www.youtube.com/makerlinux[português] and https://www.youtube.com/channel/UC65ISAck97KwTJRlFHEvTOg[inglês].
 
 [[objective]]
 ==== Objetivo
-* Devido ao meu conjunto diverso de competências, meu melhor desempenho é em **projetos de médio e longo prazo com altos riscos**, responsabilidades e circunstâncias imprevistas.
+* Devido ao meu conjunto diverso de competências, meu melhor desempenho é em **projetos de médio e longo prazo com altos riscos**, responsabilidades e circunstâncias imprevistas em ambientes DevOps.
 * Trabalho bem em **ambientes de sistemas complexos** com linguagens múltiplas, conseguindo aprender e programar em uma nova em muito pouco tempo. Tenho alta habilidades em achar a causa-raiz de problemas e consertá-los em tempo de modo a manter o ambiente funcionando mesmo em emergências.
 * Com a experiência em educação, também tenho bastante habilidade em **documentar e organizar** tais ambientes.
 * Posso administrar diversos **ambientes de sistema Unix** incluindo planejar para alta disponibilidade (certificado em HACMP para AIX e com experiência em outros sistemas de HA) e topologia de redes/firewalls.
