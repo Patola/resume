@@ -52,7 +52,7 @@ http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4763932Z5[lattes]
 ==== Summary
 * Versatile **system administrator** and **developer** graduated in **engineering** with decades of UNIX and Linux experience in big customers with mission critical environments, working with servers, desktops, mobile and embedded devices.
 * Language generalist with programming experience (complete application writing) in C, C++, Java, perl, python, SQL, php and shell scripting.
-* Good knowledge on **revision control systems** like **git**, RCS, CVS, bazaar.
+* Good knowledge on **revision control systems** like **git**, RCS, Subversion (SVN), CVS, bazaar.
 * Good knowledge on **container virtualization** (docker, vagrant), **configuration management** (puppet, ansible), **cloud** (softlayer, AWS), with limited experience with **orchestration** (kubernetes, docker swarm).
 * Experience in programming witb various general use libraries/packages such as libcurl, berkeley db, sqlite3, **redis**, rabbitmq, scrapy, gettext (for internationalization), mysql, postgresql, oracle, MS SQL Server.
 * Knowledge and experience with **Agile methodologies**, LEAN and ITIL, including extreme programming (XP), Kanban and SCRUM. ITILv3 certified.
