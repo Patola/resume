@@ -50,20 +50,20 @@ http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4763932Z5[lattes]
 
 [[summary]]
 ==== Summary
-* Versatile **system administrator** and **developer** with decades of UNIX and Linux experience in big customers with mission critical environments, working with servers, desktops, mobile and embedded devices.
+* Versatile **system administrator** and **developer** graduated in **engineering** with decades of UNIX and Linux experience in big customers with mission critical environments, working with servers, desktops, mobile and embedded devices.
 * Language generalist with programming experience (complete application writing) in C, C++, Java, perl, python, SQL, php and shell scripting.
 * Good knowledge on **revision control systems** like **git**, RCS, CVS, bazaar.
 * Good knowledge on **container virtualization** (docker, vagrant), **configuration management** (puppet, ansible), **cloud** (softlayer, AWS), with limited experience with **orchestration** (kubernetes, docker swarm).
+* Experience in programming witb various general use libraries/packages such as libcurl, berkeley db, sqlite3, **redis**, rabbitmq, scrapy, gettext (for internationalization), mysql, postgresql, oracle, MS SQL Server.
+* Knowledge and experience with **Agile methodologies**, LEAN and ITIL, including extreme programming (XP), Kanban and SCRUM. ITILv3 certified.
 * Deep understanding of **open-source licenses**, philosophy and legislation and active contributor of open-source projects.
 * Knowledge and experience in packaging software applications in formats like deb, rpm, lpp (AIX), AppImage and snap.
 * Good knowledge of **electronics and circuitry** and deep knowledge and understanding of low-cost **3D printing**, with a popular open-source https://github.com/Patola/ebook[book] (in brazilian portuguese) published about it. Due to that, good modelling experience in open-source 3D modellers like Blender, FreeCAD and OpenSCAD.
-* Knowledge and practice with **development boards** like ODROIDs from hardkernel, PCDuino, Orange and Banana Pi, Beaglebone Black, Wandboard, Cubieboard and many others.
-* Additional knowledge about physics, chemistry, molecular biology and genetics, with a masters degree of genetics and molecular biology from one of Brazil's most respected universities.
 * **Public speaker** in a number of http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4763932Z5[high-profile events and conferences], and also **youtube educator** with Maker/3DPrinting channels in https://www.youtube.com/makerlinux[brazilian portuguese] and https://www.youtube.com/channel/UC65ISAck97KwTJRlFHEvTOg[english].
 
 [[objective]]
 ==== Objective
-* Mostly due to my diverse set of abilities, my best performance is at **medium to long term projects with high stakes** and responsibilities and unforeseen circumstances.
+* Mostly due to my diverse set of abilities, my best performance is at **medium to long term projects with high stakes** and responsibilities and unforeseen circumstances in DevOps environments.
 * I thrive at **complex systems environments** with multiple languages, being able to learn a new one in a very short time. High skill in troubleshooting and fixing system problems and keep things working even in emergencies.
 * With my education experience, I am also very good and **documenting and organizing** computing environments.
 * I can administrate diverse **UNIX system environments** including planning for high availability (certified in HACMP for AIX and with experience in other HA systems) and network topology and firewalls.
