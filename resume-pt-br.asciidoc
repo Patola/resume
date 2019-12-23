@@ -1,6 +1,6 @@
 = Curriculum vitae
 Cláudio Luís Marques Sampaio, MSc.
-v0.99.3, 1/10/2017
+v0.99.4, 23/Dec/2010
 :updated: 2017-11-18
 :Author: Cláudio Luís Marques Sampaio, MSc.
 :Email: patola@makerlinux.com.br
@@ -63,7 +63,7 @@ http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4763932Z5[lattes]
 * **Administrador de sistemas** e **desenvolvedor** graduado em **engenharia** com décadas de experiência em sistemas UNIX e Linux com clientes grandes e ambientes de missão crítica, com prática nos escopos de servidores, desktops, dispositivos móveis e dispositivos embarcados.
 * Generalista de linguagens de programação com experiência (aplicações completas) em C, C++, Java, perl, python, SQL, php e shell scripting.
 * Bom conhecimento em **sistemas de controle de versão** como **git**, Subversion (SVN), RCS, CVS, Bazaar.
-* Bonm conhecimento em **virtualização com contêineres** (docker, vagrant), **gerenciamento de configuração** (puppet, ansible), **nuvem** (softlayer, AWS), com experiência positiva mas limitada com orquestração (kubernetes, docker swarm).
+* Bom conhecimento em **virtualização com contêineres** (docker, vagrant), **gerenciamento de configuração** (puppet, ansible), **nuvem** (softlayer, AWS), com experiência positiva mas limitada com orquestração (kubernetes, docker swarm).
 * Experiência em programação com o uso de várias bibliotecas, frameworks e pacotes como libcurl, berkeley db, sqlite3, **redis**, rabbitmq, scrapy, gettext (para internacionalização), mysql, postgresql, oracle, MS SQL Server.
 * Conhecimento profundo de licenças, filosofia e legislação **open source**, ativo contribuidor de alguns projetos.
 * Conhecimento e experiência em empacotamento de aplicações de software em formatos como deb, rpm, lpp (AIX), AppImage e snap.
